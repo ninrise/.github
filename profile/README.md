@@ -18,11 +18,13 @@ Resilient software systems, developer-first open source tools, and interactive g
 
 At **Ninrise** (`N∞`), we believe that great engineering starts with purpose and endures through craftsmanship. We don't just write code to solve problems; we commit to resolving them the right way and building solutions with genuine heart.
 
-The name **Ninrise** embodies our spirit:
-- **Nin**: Inspired by **Inner** purpose and unshakeable **Integrity**—building every solution from a solid, honest foundation.
+The name **Ninrise** embodies our core conviction: *"Rising from Inner Heart & Integrity"*:
+- **Nin**: Inspired by **Inner** heart (genuine care, inner conscience, and human empathy) and unshakeable **Integrity** (uprightness and truthfulness as our bedrock)—ensuring every technological solution is built with empathy and ethical discipline.
 - **Rise**: Signifying upward momentum, breakthrough innovation, and elevating enduring success for users, partners, and our community.
 
-Our work is anchored by four foundational values:
+This belief directly bridges our mindset into action: finding what is right (*Resolve right*) and executing with wholehearted commitment (*Build with heart*).
+
+Our daily work is anchored by four foundational values:
 
 - **Integrity**: We are honest with ourselves, candid with teammates, and transparent with our users—even when no one is watching. Quality and trust are never compromised for shortcuts.
 - **Humanity**: Technology is built by people, for people. We listen without judgment, respect diverse perspectives, and design software that genuinely serves and respects human lives.
